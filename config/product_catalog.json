@@ -1,0 +1,286 @@
+{
+  "schema_version": 1,
+  "products": [
+    {
+      "product_id": "product_5bac9b0d35c65bd4",
+      "title": "Beginner DIY Crochet Christmas Hanging PDF 1",
+      "category": "unknown",
+      "version": null,
+      "document_ids": [
+        "c6ba34ec-a43f-50a2-b256-23cbcf22f2ea"
+      ],
+      "metadata_status": "needs_review"
+    },
+    {
+      "product_id": "product_3acf8314ec8f59cd",
+      "title": "Beginner DIY Crochet Christmas Hanging PDF 2",
+      "category": "unknown",
+      "version": null,
+      "document_ids": [
+        "67a6034f-2ae1-53a8-b079-2ddde11904c4"
+      ],
+      "metadata_status": "needs_review"
+    },
+    {
+      "product_id": "product_4a0a46e4b0e054f6",
+      "title": "Beginner DIY Crochet Christmas Penguin Sweater",
+      "category": "unknown",
+      "version": null,
+      "document_ids": [
+        "c1d0e3d2-2f91-59c9-84f2-26a4ca159fd9",
+        "80f9fbf2-0e41-5db4-9ad6-edc6b4adeaa2"
+      ],
+      "metadata_status": "needs_review"
+    },
+    {
+      "product_id": "product_dedbded9cadd5dad",
+      "title": "Beginner DIY Crochet Halloween Witch Wreath PDF 1",
+      "category": "unknown",
+      "version": null,
+      "document_ids": [
+        "4125f4ae-6817-53d3-8295-81c9ffb479f7"
+      ],
+      "metadata_status": "needs_review"
+    },
+    {
+      "product_id": "product_398b864f7d92560e",
+      "title": "Beginner DIY Crochet Halloween Witch Wreath PDF 2",
+      "category": "unknown",
+      "version": null,
+      "document_ids": [
+        "96749c06-55c6-5524-8525-d250dc44f991"
+      ],
+      "metadata_status": "needs_review"
+    },
+    {
+      "product_id": "product_5daa87e140195f2e",
+      "title": "Beginner DIY Crochet Pattern PDF 1",
+      "category": "unknown",
+      "version": null,
+      "document_ids": [
+        "4ee46bad-5bb8-51ac-8001-eb0d1c12584f"
+      ],
+      "metadata_status": "needs_review"
+    },
+    {
+      "product_id": "product_a0e72c2b641c5583",
+      "title": "Beginner DIY Crochet Pattern PDF 2",
+      "category": "unknown",
+      "version": null,
+      "document_ids": [
+        "4b265702-4555-55a3-ab94-600cdce2abed"
+      ],
+      "metadata_status": "needs_review"
+    },
+    {
+      "product_id": "product_bbe8421e5c9c545a",
+      "title": "Beginner DIY Crochet Plan PDF 1",
+      "category": "unknown",
+      "version": null,
+      "document_ids": [
+        "654a4412-c926-578d-831c-6e189506b610"
+      ],
+      "metadata_status": "needs_review"
+    },
+    {
+      "product_id": "product_59dee7ce0e395d4e",
+      "title": "Beginner DIY Crochet Plan PDF 2",
+      "category": "unknown",
+      "version": null,
+      "document_ids": [
+        "5b599e42-22f7-518f-a403-aa490c929822"
+      ],
+      "metadata_status": "needs_review"
+    },
+    {
+      "product_id": "product_b3be37292f14579f",
+      "title": "Beginner DIY Crochet Snowman Door Hanger PDF 1",
+      "category": "unknown",
+      "version": null,
+      "document_ids": [
+        "2e4b0807-0bcb-5025-bd5c-67e3664436ea"
+      ],
+      "metadata_status": "needs_review"
+    },
+    {
+      "product_id": "product_68ce8c8814995723",
+      "title": "Beginner DIY Crochet Snowman Door Hanger PDF 2",
+      "category": "unknown",
+      "version": null,
+      "document_ids": [
+        "078885d3-f6e4-5347-b1c1-8ea11bde0d0e"
+      ],
+      "metadata_status": "needs_review"
+    },
+    {
+      "product_id": "product_4a5e3f1b3a3d5cac",
+      "title": "Butterfly Double Helix Hanging Ornament PDF 1",
+      "category": "unknown",
+      "version": null,
+      "document_ids": [
+        "5b4d5e97-3ca7-5982-8f4d-d6bdea222fc8"
+      ],
+      "metadata_status": "needs_review"
+    },
+    {
+      "product_id": "product_1521b3bd6d3f5fb2",
+      "title": "Butterfly Double Helix Hanging Ornament PDF 2",
+      "category": "unknown",
+      "version": null,
+      "document_ids": [
+        "d9e57c9c-9bec-5f7b-928b-79ebd7f5df4b"
+      ],
+      "metadata_status": "needs_review"
+    },
+    {
+      "product_id": "product_2b3f19ce41c45689",
+      "title": "Christmas Crochet Gnome Couple PDF 1",
+      "category": "unknown",
+      "version": null,
+      "document_ids": [
+        "5e653b5b-a8b5-5a32-abc1-ecfdcd22edfc"
+      ],
+      "metadata_status": "needs_review"
+    },
+    {
+      "product_id": "product_e8541c6e9ecb57b0",
+      "title": "Christmas Crochet Gnome Couple PDF 2",
+      "category": "unknown",
+      "version": null,
+      "document_ids": [
+        "3d708622-7997-5823-873e-30b291a738ab"
+      ],
+      "metadata_status": "needs_review"
+    },
+    {
+      "product_id": "product_c94eefd70d2a59fc",
+      "title": "Crochet Christmas Sleeping Bunny Display PDF 1",
+      "category": "unknown",
+      "version": null,
+      "document_ids": [
+        "a2089982-c44b-56aa-861b-bd44fda842e4"
+      ],
+      "metadata_status": "needs_review"
+    },
+    {
+      "product_id": "product_ba5e0494123d5ef9",
+      "title": "Crochet Christmas Sleeping Bunny Display PDF 2",
+      "category": "unknown",
+      "version": null,
+      "document_ids": [
+        "08df91ab-faef-5f84-80b2-368739f81cb1"
+      ],
+      "metadata_status": "needs_review"
+    },
+    {
+      "product_id": "product_d2df76bc88d25299",
+      "title": "Crochet Woodland Mushroom Basket PDF 1",
+      "category": "unknown",
+      "version": null,
+      "document_ids": [
+        "c5c7977c-4a64-5d88-bede-a651c8a58134"
+      ],
+      "metadata_status": "needs_review"
+    },
+    {
+      "product_id": "product_6619f4eaf2795d1d",
+      "title": "Crochet Woodland Mushroom Basket PDF 2",
+      "category": "unknown",
+      "version": null,
+      "document_ids": [
+        "513bc586-c6f6-577b-905b-92b426934223"
+      ],
+      "metadata_status": "needs_review"
+    },
+    {
+      "product_id": "product_edcbdc55ee6a5095",
+      "title": "Pink Floppy Ear Crochet Bunny PDF 1",
+      "category": "unknown",
+      "version": null,
+      "document_ids": [
+        "77336c2b-85ab-56a2-a306-7c2ea13a977a"
+      ],
+      "metadata_status": "needs_review"
+    },
+    {
+      "product_id": "product_ed0dfae7fca75c12",
+      "title": "Pink Floppy Ear Crochet Bunny PDF 2",
+      "category": "unknown",
+      "version": null,
+      "document_ids": [
+        "10c75049-e260-5d46-bc1d-efd66a0a6e25"
+      ],
+      "metadata_status": "needs_review"
+    },
+    {
+      "product_id": "product_ac1b9b0600be5e9d",
+      "title": "Spiral Knit Christmas Tree Hanging Ornament",
+      "category": "unknown",
+      "version": null,
+      "document_ids": [
+        "9bf2e80f-b388-5f44-b727-03eae1fa528c"
+      ],
+      "metadata_status": "needs_review"
+    },
+    {
+      "product_id": "product_6114c44f837d5baa",
+      "title": "Spiral Snowman Ornament PDF 1",
+      "category": "unknown",
+      "version": null,
+      "document_ids": [
+        "133766ec-edb2-5792-b1ba-fbd43b6f0cff"
+      ],
+      "metadata_status": "needs_review"
+    },
+    {
+      "product_id": "product_be9d3230dbdc5266",
+      "title": "Spiral Snowman Ornament PDF 2",
+      "category": "unknown",
+      "version": null,
+      "document_ids": [
+        "086ed10b-a549-5556-ac95-f9b52bcaa8b2"
+      ],
+      "metadata_status": "needs_review"
+    },
+    {
+      "product_id": "product_29a97962756a52a2",
+      "title": "Textured Crochet Christmas Santa Hat PDF 1",
+      "category": "unknown",
+      "version": null,
+      "document_ids": [
+        "5e0d5b53-c1d0-50f7-a909-80e6ae6b88b0"
+      ],
+      "metadata_status": "needs_review"
+    },
+    {
+      "product_id": "product_fcdafbc628425464",
+      "title": "Textured Crochet Christmas Santa Hat PDF 2",
+      "category": "unknown",
+      "version": null,
+      "document_ids": [
+        "95815aec-4929-55f3-a788-b9cd036fc68e"
+      ],
+      "metadata_status": "needs_review"
+    },
+    {
+      "product_id": "product_e8e55066bd7458a4",
+      "title": "Tiered Christmas Snowman PDF 1",
+      "category": "unknown",
+      "version": null,
+      "document_ids": [
+        "c10a2f2b-1c3c-5ec5-a501-5c29d921906d"
+      ],
+      "metadata_status": "needs_review"
+    },
+    {
+      "product_id": "product_b8bc58a60c065902",
+      "title": "Tiered Christmas Snowman PDF 2",
+      "category": "unknown",
+      "version": null,
+      "document_ids": [
+        "dfa73f4e-0765-5e1b-ba30-73a533d2c2f1"
+      ],
+      "metadata_status": "needs_review"
+    }
+  ]
+}

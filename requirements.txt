@@ -1,0 +1,6 @@
+PyMuPDF
+numpy
+sentence-transformers
+faiss-cpu==1.13.1
+rank-bm25==0.2.2
+streamlit==1.58.0

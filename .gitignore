@@ -1,0 +1,21 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Local Python environments (not created by this setup)
+/.venv/
+/venv/
+
+# Local secrets
+.env*
+!.env.example
+secrets/
+*.secret
+
+# Commercial source documents
+/Dataset/
+
+# Generated local data
+/data/processed/
+/data/assets/
+/data/indexes/
